@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/viewsouvannasy-cmd/devops-pipelines#readme",
+  "bugs": {
+    "url": "https://github.com/viewsouvannasy-cmd/devops-pipelines/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewsouvannasy-cmd/devops-pipelines.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "dev": "node index.js"
+  }
+}
